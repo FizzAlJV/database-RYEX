@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "a67e769719c4",
+    "username": "Fizz",
+    "passwordHash": "$2a$10$mLI5UqszgRnCNtgpoNVWKOfquXZ0lHGS/5SmCAPAyUx7BV0PefKvK",
+    "role": "OWNER",
+    "status": "active",
+    "telegramId": "6139972751",
+    "expiredAt": null,
+    "createdAt": "2026-10-03T14:44:20.009Z",
+    "createdBy": "6139972751",
+    "createdByUsername": "@FizzNescafe",
+    "createdByName": "Fizzz",
+    "source": "telegram"
+  }
+]
