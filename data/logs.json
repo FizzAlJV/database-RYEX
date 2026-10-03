@@ -1,5 +1,14 @@
 [
   {
+    "id": "musi0diholrk",
+    "timestamp": "2026-10-03T14:39:43.721Z",
+    "type": "error",
+    "errorId": "ERR-MUSI0B8L-CVCK",
+    "route": "GET /favicon.ico",
+    "message": "ENOENT: no such file or directory, stat 'C:\\Users\\User\\Documents\\bug\\frontend\\index.html'",
+    "userId": null
+  },
+  {
     "id": "musi0chb9bxi",
     "timestamp": "2026-10-03T14:39:42.383Z",
     "type": "error",
