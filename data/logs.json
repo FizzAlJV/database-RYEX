@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "musi0chb9bxi",
+    "timestamp": "2026-10-03T14:39:42.383Z",
+    "type": "error",
+    "errorId": "ERR-MUSI0B6H-TI4U",
+    "route": "GET /",
+    "message": "ENOENT: no such file or directory, stat 'C:\\Users\\User\\Documents\\bug\\frontend\\index.html'",
+    "userId": null
+  }
+]
