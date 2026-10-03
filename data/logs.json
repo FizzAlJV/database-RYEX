@@ -1,5 +1,14 @@
 [
   {
+    "id": "musi2ocyodrc",
+    "timestamp": "2026-10-03T14:41:31.090Z",
+    "type": "error",
+    "errorId": "ERR-MUSI2O15-5XVA",
+    "route": "GET /",
+    "message": "ENOENT: no such file or directory, stat 'C:\\Users\\User\\Documents\\bug\\frontend\\index.html'",
+    "userId": null
+  },
+  {
     "id": "musi0diholrk",
     "timestamp": "2026-10-03T14:39:43.721Z",
     "type": "error",
