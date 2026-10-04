@@ -1,5 +1,14 @@
 [
   {
+    "id": "mutrzmxn2unf",
+    "timestamp": "2026-10-04T12:06:51.611Z",
+    "type": "error",
+    "errorId": "ERR-MUTRZMDM-VH45",
+    "route": "GET /api/auth/me",
+    "message": "Not authenticated",
+    "userId": null
+  },
+  {
     "id": "mutrigdip0ea",
     "timestamp": "2026-10-04T11:53:29.958Z",
     "type": "error",
