@@ -1,5 +1,13 @@
 [
   {
+    "id": "mutivqz3ort0",
+    "timestamp": "2026-10-04T07:51:53.679Z",
+    "type": "auth",
+    "action": "password_change",
+    "username": "Fizz",
+    "userId": "a67e769719c4"
+  },
+  {
     "id": "mutivc8ju9sp",
     "timestamp": "2026-10-04T07:51:34.579Z",
     "type": "error",
