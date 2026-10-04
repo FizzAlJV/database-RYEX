@@ -1,5 +1,14 @@
 [
   {
+    "id": "mutkui4p4i5f",
+    "timestamp": "2026-10-04T08:46:54.793Z",
+    "type": "error",
+    "errorId": "ERR-MUTKUHOV-IH66",
+    "route": "PATCH /api/database/users/a67e769719c4/expiry",
+    "message": "Lifetime account",
+    "userId": "a67e769719c4"
+  },
+  {
     "id": "mutktqrg3aqj",
     "timestamp": "2026-10-04T08:46:19.324Z",
     "type": "auth",
