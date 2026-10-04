@@ -1,5 +1,14 @@
 [
   {
+    "id": "mutou943wrbk",
+    "timestamp": "2026-10-04T10:38:41.571Z",
+    "type": "error",
+    "errorId": "ERR-MUTOU8MG-ZLIK",
+    "route": "GET /api/auth/me",
+    "message": "Not authenticated",
+    "userId": null
+  },
+  {
     "id": "mutotgrq2wb9",
     "timestamp": "2026-10-04T10:38:04.838Z",
     "type": "error",
