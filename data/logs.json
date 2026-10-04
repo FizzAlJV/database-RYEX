@@ -1,5 +1,14 @@
 [
   {
+    "id": "mutvuk5fsd42",
+    "timestamp": "2026-10-04T13:54:53.187Z",
+    "type": "error",
+    "errorId": "ERR-MUTVUFB3-HOEL",
+    "route": "GET /api/dashboard",
+    "message": "Not authenticated",
+    "userId": null
+  },
+  {
     "id": "mutvtenxsl23",
     "timestamp": "2026-10-04T13:53:59.421Z",
     "type": "error",
