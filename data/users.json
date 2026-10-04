@@ -48,5 +48,17 @@
     "createdAt": "2026-10-04T10:36:51.618Z",
     "createdBy": "6139972751",
     "isFree": true
+  },
+  {
+    "id": "1723f47227d7",
+    "username": "free_17599d",
+    "passwordHash": "$2a$10$bWuVzaZmca1N7MFAYv4vf.ZUkr2lBTy8CnAZgizk7wRQnsCWlts9O",
+    "role": "PREMIUM",
+    "status": "active",
+    "telegramId": null,
+    "expiredAt": "2026-10-06T10:36:53.136Z",
+    "createdAt": "2026-10-04T10:36:53.136Z",
+    "createdBy": "6139972751",
+    "isFree": true
   }
 ]
