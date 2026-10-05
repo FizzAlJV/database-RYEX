@@ -1,5 +1,14 @@
 [
   {
+    "id": "muv849ly7av0",
+    "timestamp": "2026-10-05T12:26:07.654Z",
+    "type": "error",
+    "errorId": "ERR-MUV844YM-RAUB",
+    "route": "GET /api/auth/me",
+    "message": "Not authenticated",
+    "userId": null
+  },
+  {
     "id": "muv6somgwgz5",
     "timestamp": "2026-10-05T11:49:07.624Z",
     "type": "error",
