@@ -1,5 +1,15 @@
 [
   {
+    "id": "muwjskxhb6kw",
+    "timestamp": "2026-10-06T10:40:44.021Z",
+    "type": "account",
+    "action": "auto_expired_delete",
+    "username": "free_59d357",
+    "role": "PREMIUM",
+    "userId": "b6320b31d360",
+    "sessionCount": 0
+  },
+  {
     "id": "muwjsij95lox",
     "timestamp": "2026-10-06T10:40:40.917Z",
     "type": "account",
