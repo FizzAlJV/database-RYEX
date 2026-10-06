@@ -14,18 +14,6 @@
     "source": "telegram"
   },
   {
-    "id": "1fa174c90ee9",
-    "username": "free_e9593a",
-    "passwordHash": "$2a$10$bkJpMh7oKw9ds5M5AUFDeeLbRsCdS2woiBLVOpGO/VfWHUfB8g0CK",
-    "role": "PREMIUM",
-    "status": "active",
-    "telegramId": null,
-    "expiredAt": "2026-10-06T10:36:43.557Z",
-    "createdAt": "2026-10-04T10:36:43.557Z",
-    "createdBy": "6139972751",
-    "isFree": true
-  },
-  {
     "id": "1afc778e1771",
     "username": "free_e7dbd1",
     "passwordHash": "$2a$10$avNVdnATGCvEj9xZ3yH3Nus2Ow4Y17dYYB0oWKnqnkqNGw/zoKvA2",
