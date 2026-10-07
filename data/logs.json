@@ -1,5 +1,14 @@
 [
   {
+    "id": "muxcl82dqp56",
+    "timestamp": "2026-10-07T00:06:49.621Z",
+    "type": "error",
+    "errorId": "ERR-MUXCL7IX-56MW",
+    "route": "GET /api/auth/me",
+    "message": "Not authenticated",
+    "userId": null
+  },
+  {
     "id": "mux8a09lzd3m",
     "timestamp": "2026-10-06T22:06:07.833Z",
     "type": "error",
