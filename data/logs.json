@@ -1,5 +1,14 @@
 [
   {
+    "id": "muzm8ugaw8p6",
+    "timestamp": "2026-10-08T14:12:40.618Z",
+    "type": "error",
+    "errorId": "ERR-MUZM8U24-LLH2",
+    "route": "GET /api/auth/me",
+    "message": "Not authenticated",
+    "userId": null
+  },
+  {
     "id": "muzm4sd2mmwe",
     "timestamp": "2026-10-08T14:09:31.286Z",
     "type": "account",
