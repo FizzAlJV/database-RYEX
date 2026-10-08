@@ -54,5 +54,19 @@
     "createdByUsername": "@FizzNescafe",
     "createdByName": "Fizzz",
     "source": "telegram"
+  },
+  {
+    "id": "b2176f1a4ed9",
+    "username": "free",
+    "passwordHash": "$2a$10$w4opCQgdjmEcyi5o/rT5sONEpeGH3sDfW0haoY6qn.E0fHFczUBpS",
+    "role": "PREMIUM",
+    "status": "active",
+    "telegramId": "2883939303",
+    "expiredAt": "2026-10-09T13:21:09.459Z",
+    "createdAt": "2026-10-08T13:21:09.459Z",
+    "createdBy": "6139972751",
+    "createdByUsername": "@FizzNescafe",
+    "createdByName": "Fizzz",
+    "source": "telegram"
   }
 ]
