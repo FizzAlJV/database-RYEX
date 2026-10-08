@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "muznjtladdheu9",
+    "userId": "5b92c91d42d0",
+    "title": "New private message",
+    "message": "Fizz: work zyn ?",
+    "type": "chat",
+    "source": "chat",
+    "link": "/chat.html",
+    "silent": true,
+    "read": false,
+    "createdAt": "2026-10-08T14:49:12.334Z"
+  }
+]
