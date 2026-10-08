@@ -1,5 +1,15 @@
 [
   {
+    "id": "muznan6emml5",
+    "timestamp": "2026-10-08T14:42:04.118Z",
+    "type": "whatsapp",
+    "action": "visibility_changed",
+    "number": "60108196378",
+    "userId": "a67e769719c4",
+    "targetUserId": "5b92c91d42d0",
+    "isGlobal": false
+  },
+  {
     "id": "muznaiq0a313",
     "timestamp": "2026-10-08T14:41:58.344Z",
     "type": "whatsapp",
