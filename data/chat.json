@@ -1,5 +1,14 @@
 {
   "05f4035d7c17:a67e769719c4": [],
   "1baa8afa426f:a67e769719c4": [],
-  "5b92c91d42d0:a67e769719c4": []
+  "5b92c91d42d0:a67e769719c4": [
+    {
+      "id": "muznjrqbvkil6",
+      "senderId": "a67e769719c4",
+      "recipientId": "5b92c91d42d0",
+      "text": "work zyn ?",
+      "createdAt": "2026-10-08T14:49:09.923Z",
+      "status": "sent"
+    }
+  ]
 }
