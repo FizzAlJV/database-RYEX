@@ -1,5 +1,14 @@
 [
   {
+    "id": "muzniqo4lvox",
+    "timestamp": "2026-10-08T14:48:21.893Z",
+    "type": "error",
+    "errorId": "ERR-MUZNIPNP-MKW3",
+    "route": "GET /api/chat/users",
+    "message": "is at 591615c2eb5ab9c5f40bc0ecbad6e5638ba63313 but expected 0267e97b876fad8d3a7b1e3b61e9ee04e3cf7810 - https://docs.github.com/rest/repos/contents#create-or-update-file-contents",
+    "userId": "a67e769719c4"
+  },
+  {
     "id": "muzndfpzy86n",
     "timestamp": "2026-10-08T14:44:14.423Z",
     "type": "xmessage",
