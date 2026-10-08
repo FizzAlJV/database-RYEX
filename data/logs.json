@@ -1,5 +1,14 @@
 [
   {
+    "id": "muzma8rjcs56",
+    "timestamp": "2026-10-08T14:13:45.823Z",
+    "type": "error",
+    "errorId": "ERR-MUZMA86V-PM5T",
+    "route": "POST /api/auth/login",
+    "message": "request aborted",
+    "userId": null
+  },
+  {
     "id": "muzm8ugaw8p6",
     "timestamp": "2026-10-08T14:12:40.618Z",
     "type": "error",
