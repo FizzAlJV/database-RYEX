@@ -9,6 +9,14 @@
       "text": "work zyn ?",
       "createdAt": "2026-10-08T14:49:09.923Z",
       "status": "read"
+    },
+    {
+      "id": "mv0xumzzqxvly",
+      "senderId": "5b92c91d42d0",
+      "recipientId": "a67e769719c4",
+      "text": "work",
+      "createdAt": "2026-10-09T12:25:19.343Z",
+      "status": "sent"
     }
   ]
 }
