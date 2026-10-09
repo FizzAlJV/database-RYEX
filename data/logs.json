@@ -1,5 +1,15 @@
 [
   {
+    "id": "mv0x6t01kz02",
+    "timestamp": "2026-10-09T12:06:47.377Z",
+    "type": "xmessage",
+    "action": "Andro Freeze",
+    "target": "60123526544",
+    "userId": "c17a82fb1fa0",
+    "success": false,
+    "error": "andro_freeze is not defined"
+  },
+  {
     "id": "mv0x07aknklc",
     "timestamp": "2026-10-09T12:01:39.308Z",
     "type": "auth",
