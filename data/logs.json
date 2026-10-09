@@ -1,5 +1,15 @@
 [
   {
+    "id": "mv0z032hioct",
+    "timestamp": "2026-10-09T12:57:33.065Z",
+    "type": "xmessage",
+    "action": "Group Ban",
+    "target": "120363430431424279@g.us",
+    "userId": "5b92c91d42d0",
+    "success": true,
+    "stopped": false
+  },
+  {
     "id": "mv0yu9dttd90",
     "timestamp": "2026-10-09T12:53:01.313Z",
     "type": "xmessage",
