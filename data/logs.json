@@ -1,5 +1,14 @@
 [
   {
+    "id": "mv0wv5jzkj40",
+    "timestamp": "2026-10-09T11:57:43.775Z",
+    "type": "account",
+    "action": "create",
+    "username": "Fir",
+    "role": "OWNER",
+    "by": "6139972751"
+  },
+  {
     "id": "mv0pfk6vfdyy",
     "timestamp": "2026-10-09T08:29:38.935Z",
     "type": "error",
