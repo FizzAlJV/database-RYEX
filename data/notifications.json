@@ -8,7 +8,7 @@
     "source": "chat",
     "link": "/chat.html",
     "silent": true,
-    "read": false,
+    "read": true,
     "createdAt": "2026-10-08T14:49:12.334Z"
   }
 ]
