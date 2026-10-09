@@ -1,5 +1,17 @@
 [
   {
+    "id": "mv0xuon9sip9hf",
+    "userId": "a67e769719c4",
+    "title": "New private message",
+    "message": "zyn: work",
+    "type": "chat",
+    "source": "chat",
+    "link": "/chat.html",
+    "silent": true,
+    "read": false,
+    "createdAt": "2026-10-09T12:25:21.477Z"
+  },
+  {
     "id": "muznjtladdheu9",
     "userId": "5b92c91d42d0",
     "title": "New private message",
