@@ -1,5 +1,13 @@
 [
   {
+    "id": "mv61de9mwekm",
+    "timestamp": "2026-10-13T02:02:44.218Z",
+    "type": "auth",
+    "action": "login",
+    "username": "Fir",
+    "userId": "c17a82fb1fa0"
+  },
+  {
     "id": "mv61dcrqjxrc",
     "timestamp": "2026-10-13T02:02:42.279Z",
     "type": "error",
