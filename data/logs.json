@@ -1,5 +1,14 @@
 [
   {
+    "id": "mv61dcrqjxrc",
+    "timestamp": "2026-10-13T02:02:42.279Z",
+    "type": "error",
+    "errorId": "ERR-MV61DAH5-VMDP",
+    "route": "GET /api/auth/me",
+    "message": "Not authenticated",
+    "userId": null
+  },
+  {
     "id": "mv61daw6g7gi",
     "timestamp": "2026-10-13T02:02:39.846Z",
     "type": "error",
