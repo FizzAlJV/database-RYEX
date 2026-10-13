@@ -1,5 +1,14 @@
 [
   {
+    "id": "mv6kjcdbjlpc",
+    "timestamp": "2026-10-13T10:59:14.399Z",
+    "type": "account",
+    "action": "create",
+    "username": "lorans",
+    "role": "OWNER",
+    "by": "6139972751"
+  },
+  {
     "id": "mv6jh4e8cz3f",
     "timestamp": "2026-10-13T10:29:31.136Z",
     "type": "error",
