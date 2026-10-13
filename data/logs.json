@@ -1,5 +1,14 @@
 [
   {
+    "id": "mv6kr3m6dcyc",
+    "timestamp": "2026-10-13T11:05:16.302Z",
+    "type": "error",
+    "errorId": "ERR-MV6KR336-VFV5",
+    "route": "POST /api/whatsapp/confirm",
+    "message": "Timeout menunggu WhatsApp terhubung",
+    "userId": "0163c54b1743"
+  },
+  {
     "id": "mv6kq4efgcz2",
     "timestamp": "2026-10-13T11:04:30.663Z",
     "type": "error",
