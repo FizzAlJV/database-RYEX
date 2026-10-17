@@ -1,5 +1,14 @@
 [
   {
+    "id": "mvc5fbi2n2eh",
+    "timestamp": "2026-10-17T08:42:49.466Z",
+    "type": "error",
+    "errorId": "ERR-MVC5FASS-J9XM",
+    "route": "POST /api/whatsapp/pair",
+    "message": "Masih ada proses pairing lain berjalan",
+    "userId": "0163c54b1743"
+  },
+  {
     "id": "mvc5f9n2yage",
     "timestamp": "2026-10-17T08:42:47.054Z",
     "type": "error",
